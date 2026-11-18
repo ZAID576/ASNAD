@@ -1,0 +1,8 @@
+.env
+*.env
+atlas-credentials*.env
+client_secret*.json
+node_modules/
+npm-debug.log*
+.DS_Store
+*.log
